@@ -42,4 +42,4 @@ oscar_driver.show_wins()
 # 2. Objects stores the data of the class and can perform certain actions.
 # 3. Methods are function defined inside a class that can perform actions on the objects of that class.
 # 4. The __init__ method is a special method that is called when an object is created. 
-# 5. Self is a reference to te current object of thr class and is used to access the attributes and methods of the class.
+# 5. Self is a reference to te current object of thr class and is used to access the attributes and methods of the class.git 
