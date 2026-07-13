@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Max Verstappen",
+        "team": "Oracle Red Bull Racing",
+        "number": 1
+    },
+    {
+        "name": "Charles Leclerc",
+        "team": "Scuderia Ferrari",
+        "number": 16
+    },
+    {
+        "name": "Oscar Piastri",
+        "team": "McLaren F1 Team",
+        "number": 81
+    },
+    {
+        "name": "Lewis Hamilton",
+        "team": "Mercedes AMG Petronas F1",
+        "number": 44
+    }
+]
